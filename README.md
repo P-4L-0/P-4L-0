@@ -33,6 +33,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/EdsonCHC/EdsonCHC/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/P-4L-0/P-4L-0/output/snake.svg" alt="Snake animation" />
 
 ###
